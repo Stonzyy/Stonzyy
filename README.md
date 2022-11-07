@@ -2,7 +2,8 @@
 - 👀 I’m interested in Programing and penetration testing / i like to develope any kind of tools , apps and web apps
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate with developers 
-- 📫 Follow  me on twitter [1]: [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=r00t_nasser)](https://github.com/gazf/github-readme-twitter)
+- 📫 Follow  me on twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/r00t_nasser)
+
 
 
 Stonzyy/Stonzyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
